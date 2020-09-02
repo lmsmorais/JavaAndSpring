@@ -17,7 +17,7 @@ public class UnisoController {
     @GetMapping
     @RequestMapping("hello")
     public String helloWorld(){
-        return "Essa foi a primeira aulam expusemos uma API GET em Java com Spring Boot.";
+        return "Essa foi a primeira aula onde expusemos uma API GET em Java com Spring Boot.";
     }
 
 }
